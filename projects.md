@@ -1,6 +1,6 @@
 # Student projects
 
-## 1.  Real or Not? NLP with Disaster Tweets
+## 1.  House Prices - Advanced Regression Techniques
 
 * Thibaud M
 * Yasmina A
